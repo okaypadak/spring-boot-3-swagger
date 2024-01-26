@@ -1,0 +1,15 @@
+springdoc:
+  swagger-ui:
+    enabled: true
+    path: /swagger.html
+  api-docs:
+    enabled: true
+    path: /api-docs
+#  oauth2:
+#    client-id: YOUR_CLIENT_ID
+#    client-secret: YOUR_CLIENT_SECRET
+#    scope: YOUR_SCOPE
+#    use-bearer-token: true
+#  tagsSorter: alpha
+#  filter:
+#    tags: [your-tag, another-tag]
